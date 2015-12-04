@@ -1,0 +1,4 @@
+-------
+[2015-12-03 22:32:22]MYSQL ERROR - Code: 1045 - Message: <strong>B3 Database Connection Error:</strong> (#1045) Access denied for user ''@'localhost' (using password: NO)
+-------
+[2015-12-03 22:32:22]MYSQL CONNECTION ERROR - Code: 1045 - Message: B3 Database Connection Error: (#1045) Access denied for user ''@'localhost' (using password: NO)
