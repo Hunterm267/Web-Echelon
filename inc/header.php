@@ -76,9 +76,9 @@ endif;
 <div id="header">
 	<a name="t"></a>
 	
-	<img src="images/logo.png" alt="logo" id="h-img" />
-	<h1 id="title"><a href="<?php echo PATH; ?>" title="Go to the home page">Echelon</a></h1>
-	<h2 id="subtitle">B3 repository and investigation tool</h2>		
+	<img src="images/rgnlogo1.png" alt="logo" id="h-img" />
+	<h1 id="title"><a href="<?php echo PATH; ?>" title="Go to the home page">RGN Altis Admin</a></h1>
+	<h2 id="subtitle">RGN's Altis Life Admin Manager (BigBrotherBot)</h2>		
 	
 </div><!-- end #header -->
 	
